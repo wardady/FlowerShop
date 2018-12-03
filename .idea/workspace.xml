@@ -2,17 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3585eb70-c739-49b4-a23b-08dddadc8a67" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/payment_methods/CardPayment.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/payment_methods/CashPayment.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/payment_methods/Payment.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/payment_methods/PaymentContext.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/shopping_carts/Cart.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/shopping_carts/CartDiscount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/shopping_carts/CartSundayDiscount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/shopping_carts/DiscountCartsDecorator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/shopping_carts/RegularCart.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/FlowerShop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/FlowerShop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/payment_methods/CardPayment.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/payment_methods/CardPayment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/payment_methods/CashPayment.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/payment_methods/CashPayment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/payment_methods/Payment.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/payment_methods/Payment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/payment_methods/PaymentContext.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/payment_methods/PaymentContext.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/shopping_carts/Cart.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/shopping_carts/Cart.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/shopping_carts/CartDiscount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/shopping_carts/CartDiscount.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/shopping_carts/CartSundayDiscount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/shopping_carts/CartSundayDiscount.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/shopping_carts/DiscountCartsDecorator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/shopping_carts/DiscountCartsDecorator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/shopping_carts/RegularCart.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/shopping_carts/RegularCart.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -136,8 +136,8 @@
       <file leaf-file-name="CartSundayDiscount.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/shopping_carts/CartSundayDiscount.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="286">
-              <caret line="13" column="12" selection-start-line="13" selection-start-column="12" selection-end-line="13" selection-end-column="12" />
+            <state relative-caret-position="66">
+              <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
               <folding>
                 <element signature="e#148#149#0" expanded="true" />
                 <element signature="e#185#186#0" expanded="true" />
@@ -381,12 +381,12 @@
       <workItem from="1541591948916" duration="143000" />
       <workItem from="1542870245164" duration="2473000" />
       <workItem from="1542960956369" duration="42000" />
-      <workItem from="1543509858724" duration="20592000" />
+      <workItem from="1543509858724" duration="20891000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="27392000" />
+    <option name="totallyTimeSpent" value="27691000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -910,8 +910,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/shopping_carts/CartSundayDiscount.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="13" column="12" selection-start-line="13" selection-start-column="12" selection-end-line="13" selection-end-column="12" />
+        <state relative-caret-position="66">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
           <folding>
             <element signature="e#148#149#0" expanded="true" />
             <element signature="e#185#186#0" expanded="true" />
