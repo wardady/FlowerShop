@@ -1,11 +1,15 @@
 package shopping_carts;
 
 import flowers.FlowerBouquet;
+import lombok.Getter;
+import lombok.ToString;
 
 import java.util.ArrayList;
 
+@ToString
+@Getter
 public class RegularCart implements Cart {
-    private ArrayList<FlowerBouquet> bouquets;
+    private ArrayList<FlowerBouquet> bouquets = new ArrayList<>();
 
     @Override
     public double getPrice() {
